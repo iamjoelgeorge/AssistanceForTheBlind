@@ -1,0 +1,10 @@
+the following packages need to be installed for this program to run
+
+1.gtts
+2.mpg321 or mpg123, whichever works. It should be reflected in the program
+feel free to use some other media player, the problem with all the other players i tried was that they open a video prompt along with the audio and they wouldn't close automatically.
+
+"sudo" was necessary where the media player is being called in the program otherwise it would show an error in my system, feel free to experiment with that
+
+for any additional queries contact the author
+#adi
